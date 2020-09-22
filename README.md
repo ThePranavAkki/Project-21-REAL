@@ -1,2 +1,2 @@
-# Project-21-REAL
-This is the real Project 21
+# p5.play-boilerplate
+Boiler plate for p5.play
